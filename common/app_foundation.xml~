@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appendix xmlns="http://docbook.org/ns/docbook"
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="5.0"
+  xml:id="app_opf_overview">
+    <?dbhtml stop-chunking?>
+    <title>OpenPOWER Foundation overview</title>
+    <para>
+	The OpenPOWER Foundation was founded in 2013 as an open technical membership organization
+	that will enable data centers to rethink their approach to technology. Member companies 
+	are enabled to customize POWER CPU processors and system platforms for optimization and 
+	innovation for their business needs. These innovations include custom systems for large 
+	or warehouse scale data centers, workload acceleration through GPU, FPGA or advanced I/O, 
+	platform optimization for SW appliances, or advanced hardware technology exploitation.
+	OpenPOWER members are actively pursing all of these innovations and more and welcome 
+	all parties to join in moving the state of the art of OpenPOWER systems design forward.
+    </para>
+    <para>
+	To learn more about the OpenPOWER Foundation, visit the organization website at 
+	<link xlink:href="http://openpowerfoundation.org">openpowerfoundation.org</link>.
+    </para>
+
+    <section xml:id="opf-documentation">
+        <title>Foundation documentation</title>
+	<para>Key foundation documents include:
+        <itemizedlist>
+            <listitem>
+                <para>
+                    <link
+                        xlink:href="http://openpowerfoundation.org/wp-content/uploads/2014/07/OPF-Bylaws-0410.2014.pdf">
+                        <citetitle>Bylaws of OpenPOWER Foundation</citetitle>
+                    </link></para>
+            </listitem>
+            <listitem>
+                <para>
+                    <link
+                        xlink:href="http://openpowerfoundation.org/wp-content/uploads/2015/02/OpenPOWER-IPR-Policy.1.15.2015.pdf">
+                        <citetitle>OpenPOWER Foundation Intellectual Property Rights (IPR) Policy</citetitle>
+                    </link></para>
+            </listitem>
+            <listitem>
+                <para>
+                    <link
+                        xlink:href="http://openpowerfoundation.org/wp-content/uploads/2014/07/OpenPOWER-Membership-Agreement-04.2014.pdf">
+                        <citetitle>OpenPOWER Foundation Membership Agreement</citetitle>
+                    </link></para>
+            </listitem>
+            <listitem>
+                <para>
+                    <!-- link
+                        xlink:href="http://openpowerfoundation.org/wp-content/uploads/TBD" -->
+                        <citetitle>OpenPOWER Anti-Trust Guidelines (link TBD)</citetitle>
+                    <!-- /link --></para>
+            </listitem>
+        </itemizedlist>
+	</para>
+	<para>More information about the foundation governance can be found at 
+	      <link xlink:href="http://openpowerfoundation.org/about-us/governance/">openpowerfoundation.org/about-us/governance</link>.
+	</para>
+    </section>
+
+    <section xml:id="opf-resources">
+        <title>Technical resources</title>
+	<para>Development resouces fall into the following general categories:
+        <itemizedlist>
+            <listitem>
+                <para>
+                    <link xlink:href="http://openpowerfoundation.org/technical/working-groups/">
+		    Foundation work groups</link></para>
+            </listitem>
+            <listitem>
+                <para>
+                    <link xlink:href="http://openpowerfoundation.org/technical/technical-resources/development-environmentvm/">
+                    Remote development environments (VMs)</link></para>
+            </listitem>
+            <listitem>
+                <para>
+                    <link xlink:href="http://openpowerfoundation.org/technical/technical-resources/development-systems/">
+                    Development systems</link></para>
+            </listitem>
+            <listitem>
+                <para>
+                    <link xlink:href="http://openpowerfoundation.org/technical/technical-resources/technical-specifications/">
+                    Technical specifications</link></para>
+            </listitem>
+            <listitem>
+                <para>
+                    <link xlink:href="http://openpowerfoundation.org/technical/technical-resources/software/">
+                    Software</link></para>
+            </listitem>
+            <listitem>
+                <para>
+                    <link xlink:href="http://openpowerfoundation.org/technical/technical-resources/openpower-developer-tools/">
+                    Developer tools</link></para>
+            </listitem>
+        </itemizedlist>
+	</para>
+	<para>The complete list of technical resources are maintained on the foundation 
+	    <link xlink:href="http://openpowerfoundation.org/technical/">Technical Resources</link> web page.
+	</para>
+    </section>
+
+    <section xml:id="opf-contact">
+        <title>Contact the foundation</title>
+        <para>To learn more about the OpenPOWER Foundation, please use the following contact points:
+        <itemizedlist>
+            <listitem>
+                <para>General information -- <email>info@openpowerfoundation.org</email>
+		</para>
+            </listitem>
+            <listitem>
+                <para>Membership -- <email>membership@openpowerfoundation.org</email>
+		</para>
+            </listitem>
+            <listitem>
+                <para>Technical Work Groups and projects -- Jeff Brown, TSC Chair, <email>tsc-chair@openpowerfoundation.org</email>
+		</para>
+            </listitem>
+            <listitem>
+                <para>Events and other activities -- Michelle Hunt, OpenPOWER ED, <email>m.hunt@ieee.org</email>
+		</para>
+            </listitem>
+            <listitem>
+                <para>Press/Analysts -- <email>press@openpowerfoundation.org</email>
+		</para>
+            </listitem>
+        </itemizedlist>
+	</para>
+	<para>
+	    More contact information the foundation governance can be found at 
+	      <link xlink:href="http://openpowerfoundation.org/get-involved/contact-us/">openpowerfoundation.org/get-involved/contact-us</link>.
+	</para>
+    </section>
+
+</appendix>

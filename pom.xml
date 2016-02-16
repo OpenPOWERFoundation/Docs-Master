@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project  xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>org.openpowerfoundation.docs</groupId>
+
+  <artifactId>master-pom</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <profiles>
+    <profile>
+      <id>OpenPOWER Foundation Repositories</id>
+      <activation>
+        <activeByDefault>true</activeByDefault>
+      </activation>
+      <repositories>
+        <repository>
+          <id>openpower-foundation</id>
+          <name>OpenPOWER Foundation Repository</name>
+          <url>http://openpowerfoundation.org/repo.openpowerfoundation.org/</url>
+          <!-- NOTE: The following URL is an IBM internal URL used for JAR file staging. -->
+          <!-- url>http://rchgsa.ibm.com/gsa/rchgsa/home/s/c/scheel/web/public/repo.openpowerfoundation.org/</url -->
+        </repository>
+      </repositories>
+      <pluginRepositories>
+        <pluginRepository>
+          <id>openpower-foundation</id>
+          <name>OpenPOWER Foundation Repository</name>
+          <url>http://openpowerfoundation.org/repo.openpowerfoundation.org/</url>
+          <!-- NOTE: The following URL is an IBM internal URL used for JAR file staging. -->
+          <!-- url>http://rchgsa.ibm.com/gsa/rchgsa/home/s/c/scheel/web/public/repo.openpowerfoundation.org/</url -->
+        </pluginRepository>
+      </pluginRepositories>
+    </profile>
+  </profiles>
+  <build>
+    <plugins>
+      <plugin>
+
+        <groupId>org.openpowerfoundation.docs</groupId>
+
+        <artifactId>openpowerdocs-maven-plugin</artifactId>
+        <!-- Note: By not declaring a version field in the master POM, the most recent maven plugin
+                   will be used.  The updates will be govered by the ~/.m2/setting.xml file.  To force an
+                   update to the newest level, a "mvn -U" may be issued or the -U parameter may be added
+                   to the next project build.
+
+                   If you find you have a strict dependency to a specific plugin version, simply uncomment
+                   the statement below and set the appropriate version. -->
+        <!-- version>1.0.1</version -->
+      </plugin>
+    </plugins>
+  </build>
+</project>
