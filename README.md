@@ -9,14 +9,19 @@ a pre-requisite project.  To build OpenPOWER documents, one must
 perform the following steps:
 
 1. Clone this project (Docs-Master) using the following command:
+
     ```
     $ git clone https://github.com/OpenPOWERFoundation/Docs-Master.git
     ```
+
 2. Clone the documentation project (my_project) using the following command:
+
     ```
     $ git clone https://github.com/OpenPOWERFoundation/my_project.git
     ```
+
 3. Build the project with these commands:
+
     ```
     $ cd my_project
     $ mvn clean generate-sources
