@@ -19,6 +19,10 @@
   </simplesect>
   <simplesect xml:id="conventions-prompts">
     <title>Command prompts</title>
+    <para>In general, examples use commands from the Linux operating
+    system.  Many of these are also common with Mac OS, but may differ greatly from the Windows 
+    operating system equivalents.</para>
+    <para>For the Linux-based commands referenced, the following conventions will be followed:</para>
     <variablelist>
       <varlistentry>
         <term><emphasis role="bold"><prompt>$</prompt> prompt</emphasis></term>
