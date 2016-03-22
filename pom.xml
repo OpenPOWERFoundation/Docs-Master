@@ -37,8 +37,6 @@
           <id>openpower-foundation</id>
           <name>OpenPOWER Foundation Repository</name>
           <url>http://openpowerfoundation.org/repo.openpowerfoundation.org/</url>
-          <!-- NOTE: The following URL is an IBM internal URL used for JAR file staging. -->
-          <!-- url>http://rchgsa.ibm.com/gsa/rchgsa/home/s/c/scheel/web/public/repo.openpowerfoundation.org/</url -->
         </repository>
       </repositories>
       <pluginRepositories>
@@ -46,8 +44,6 @@
           <id>openpower-foundation</id>
           <name>OpenPOWER Foundation Repository</name>
           <url>http://openpowerfoundation.org/repo.openpowerfoundation.org/</url>
-          <!-- NOTE: The following URL is an IBM internal URL used for JAR file staging. -->
-          <!-- url>http://rchgsa.ibm.com/gsa/rchgsa/home/s/c/scheel/web/public/repo.openpowerfoundation.org/</url -->
         </pluginRepository>
       </pluginRepositories>
     </profile>
