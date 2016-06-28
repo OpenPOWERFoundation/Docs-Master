@@ -33,6 +33,20 @@
       <para>Critical information about the risk of data loss or security issues.</para>
     </warning>
   </simplesect>
+  <simplesect xml:id="conventions-changes">
+    <title>Changes</title>
+    <para>At certain points in the document lifecycle, knowing what changed in a document is important.
+    In these situations, the following conventions will used.</para>
+    <itemizedlist>
+      <listitem><para><phrase revisionflag="added">New text will appear like this.</phrase>  Texted
+      marked in this way is completely new.</para></listitem>
+      <listitem><para><phrase revisionflag="deleted">Deleted text will appear like this.</phrase>  Texted
+      marked in this way was removed from the previous version and will not appear in the final, published
+       document.</para></listitem>
+      <listitem><para><phrase revisionflag="changed">Changed text will appear like this.</phrase>  Texted
+      marked in this way appeared in previous versions but has been modified.</para></listitem>
+    </itemizedlist>
+  </simplesect>
   <simplesect xml:id="conventions-prompts">
     <title>Command prompts</title>
     <para>In general, examples use commands from the Linux operating
@@ -56,5 +70,13 @@
         </listitem>
       </varlistentry>
     </variablelist>
+  </simplesect>
+  <simplesect xml:id="conventions-links">
+    <title>Document links</title>
+    <para>Document links frequently appear throughout the documents.  Generally, these links
+    include a text for the link, followed by a page number in parenthesis.  For example, this
+    link, <xref linkend="ch_preface"/>, references the 
+    <xref linkend="ch_preface" xrefstyle="select: title nopage"/> chapter on page
+    <xref linkend="ch_preface" xrefstyle="select: pagenumber"/>.</para>
   </simplesect>
 </section>
