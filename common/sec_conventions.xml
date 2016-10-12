@@ -38,12 +38,12 @@
     <para>At certain points in the document lifecycle, knowing what changed in a document is important.
     In these situations, the following conventions will used.</para>
     <itemizedlist>
-      <listitem><para><phrase revisionflag="added">New text will appear like this.</phrase>  Texted
+      <listitem><para><phrase revisionflag="added">New text will appear like this.</phrase>  Text
       marked in this way is completely new.</para></listitem>
-      <listitem><para><phrase revisionflag="deleted">Deleted text will appear like this.</phrase>  Texted
+      <listitem><para><phrase revisionflag="deleted">Deleted text will appear like this.</phrase>  Text
       marked in this way was removed from the previous version and will not appear in the final, published
        document.</para></listitem>
-      <listitem><para><phrase revisionflag="changed">Changed text will appear like this.</phrase>  Texted
+      <listitem><para><phrase revisionflag="changed">Changed text will appear like this.</phrase>  Text
       marked in this way appeared in previous versions but has been modified.</para></listitem>
     </itemizedlist>
   </simplesect>
