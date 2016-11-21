@@ -55,14 +55,18 @@
         <groupId>org.openpowerfoundation.docs</groupId>
 
         <artifactId>openpowerdocs-maven-plugin</artifactId>
-        <!-- Note: By not declaring a version field in the master POM, the most recent maven plugin
-                   will be used.  The updates will be govered by the ~/.m2/setting.xml file.  To force an
+        <!-- Note: The OpenPOWER documentation will move ahead as a group with this common file using the
+                   versions annotated below.
+                   
+                   If you want to have the most recent JAR file locally, you can simply comment out the
+                   next statement. By not declaring a version field in the master POM, the most recent maven 
+                   plugin will be used.  The updates will be govered by the ~/.m2/setting.xml file.  To force an
                    update to the newest level, a "mvn -U" may be issued or the -U parameter may be added
                    to the next project build.
 
-                   If you find you have a strict dependency to a specific plugin version, simply uncomment
-                   the statement below and set the appropriate version. -->
-        <!-- version>1.0.1</version -->
+                   If you find you have a strict dependency to a different plugin version, simply change
+                   the statement below in your local copy. -->
+        <version>1.0.4</version>
       </plugin>
     </plugins>
   </build>
