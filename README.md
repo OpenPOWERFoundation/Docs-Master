@@ -33,7 +33,9 @@ for the build to complete successfully.
 
 For more information on building OpenPOWER Foundation documents,
 see the *OpenPOWER Foundation Documentation Development Guide* 
-available at \([https://openpowerfoundation.org/?resource_lib=openpower-foundation-documentation-development-guide](https://openpowerfoundation.org/?resource_lib=openpower-foundation-documentation-development-guide\).
+available at 
+
+  https://openpowerfoundation.org/?resource_lib=openpower-foundation-documentation-development-guide.
 
 ## License
 This project is licensed under the Apache V2 license.  More information
