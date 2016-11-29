@@ -32,7 +32,10 @@ the my_project directory must reside in the same parent directoy
 for the build to complete successfully.
 
 For more information on building OpenPOWER Foundation documents,
-see the *Master Template Guide* available at \([TBD](http://openpowerfoundation.org/TBD.html\).
+see the *OpenPOWER Foundation Documentation Development Guide* 
+available at 
+
+  https://openpowerfoundation.org/?resource_lib=openpower-foundation-documentation-development-guide.
 
 ## License
 This project is licensed under the Apache V2 license.  More information
