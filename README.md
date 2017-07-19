@@ -43,9 +43,16 @@ can be found in the LICENSE file or online at
 
   http://www.apache.org/licenses/LICENSE-2.0
 
+## Community
+To comment on, propose changes, and engage in community dialogue, you can open issues 
+in the [Project Issues](https://github.com/OpenPOWERFoundation/Docs-Template/issues), post to
+the community mailing list \([syssw-doc_devel_guide@mailinglist.openpowerfoundation.org](mailto://syssw-doc_devel_guide@mailinglist.openpowerfoundation.org)\), or 
+join the #doc-devel channel in the OpenPOWER Foundation Slack room \([openpowerfoundation.slack.com](https://openpowerfoundation.slack.com/)\).
+
 ## Contributions
-To contribute to the OpenPOWER Foundation template document project, contact Jeff Scheel \([scheel@us.ibm.com](mailto://scheel@us.ibm.com)\) or 
-Jeff Brown \([jeffdb@us.ibm.com](mailto://jeffdb@us.ibm.com)\).
+To contribute to the OpenPOWER Foundation template document project, post patches to the community mailing list
+\([syssw-doc_devel_guide@mailinglist.openpowerfoundation.org](mailto://syssw-doc_devel_guide@mailinglist.openpowerfoundation.org)\) where they
+will be reviewed and approved when ready.
 
 Contributions to this project should conform to the `Developer Certificate
 of Origin` as defined at http://elinux.org/Developer_Certificate_Of_Origin.
