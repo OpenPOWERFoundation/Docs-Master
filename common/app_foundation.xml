@@ -44,21 +44,21 @@
             <listitem>
                 <para>
                     <link
-                        xlink:href="https://members.openpowerfoundation.org/document/dl/635">
+                        xlink:href="https://members.openpowerfoundation.org/document/dl/1688">
                         <citetitle>Bylaws of OpenPOWER Foundation</citetitle>
                     </link></para>
             </listitem>
             <listitem>
                 <para>
                     <link
-                        xlink:href="https://members.openpowerfoundation.org/document/dl/596">
+                        xlink:href="https://members.openpowerfoundation.org/document/dl/566">
                         <citetitle>OpenPOWER Foundation Intellectual Property Rights (IPR) Policy</citetitle>
                     </link></para>
             </listitem>
             <listitem>
                 <para>
                     <link
-                        xlink:href="https://members.openpowerfoundation.org/document/dl/595">
+                        xlink:href="https://members.openpowerfoundation.org/document/dl/1186">
                         <citetitle>OpenPOWER Foundation Membership Agreement</citetitle>
                     </link></para>
             </listitem>
@@ -78,43 +78,64 @@
 
     <section xml:id="opf-resources">
         <title>Technical resources</title>
-	<para>Development resouces fall into the following general categories:
-        <itemizedlist>
-            <listitem>
-                <para>
-                    <link xlink:href="http://openpowerfoundation.org/technical/working-groups/">
-		    Foundation work groups</link></para>
-            </listitem>
-            <listitem>
-                <para>
-                    <link xlink:href="http://openpowerfoundation.org/technical/technical-resources/development-environmentvm/">
-                    Remote development environments (VMs)</link></para>
-            </listitem>
-            <listitem>
-                <para>
-                    <link xlink:href="http://openpowerfoundation.org/technical/technical-resources/development-systems/">
-                    Development systems</link></para>
-            </listitem>
-            <listitem>
-                <para>
-                    <link xlink:href="http://openpowerfoundation.org/technical/technical-resources/technical-specifications/">
-                    Technical specifications</link></para>
-            </listitem>
-            <listitem>
-                <para>
-                    <link xlink:href="http://openpowerfoundation.org/technical/technical-resources/software/">
-                    Software</link></para>
-            </listitem>
-            <listitem>
-                <para>
-                    <link xlink:href="http://openpowerfoundation.org/technical/technical-resources/openpower-developer-tools/">
-                    Developer tools</link></para>
-            </listitem>
-        </itemizedlist>
-	</para>
-	<para>The complete list of technical resources are maintained on the foundation 
-	    <link xlink:href="http://openpowerfoundation.org/technical/">Technical Resources</link> web page.
-	</para>
+	          <para>Development resouces fall into the following general categories:
+                  <itemizedlist>
+                      <listitem>
+                          <para>
+                              <link xlink:href="https://openpowerfoundation.org/technical/tech-steering-committee/">
+		              Technical Steering Committee</link></para>
+                      </listitem>
+                      <listitem>
+                          <para>
+                              <link xlink:href="http://openpowerfoundation.org/technical/working-groups/">
+		              Foundation work groups</link></para>
+                      </listitem>
+                      <listitem>
+                          <para>
+                              <link xlink:href="https://openpowerfoundation.org/technical/openpower-ready/">
+                              OpenPOWER Ready documentation, products, and certification criteria</link></para>
+                      </listitem>
+                      <listitem>
+                          <para>
+                              <link xlink:href="https://openpowerfoundation.org/technical/resource-catalog/">
+                              Resource Catalog</link></para>
+                          <para>To find all OpenPOWER resources of the following types, select the specificied combination of 
+                          <emphasis role="bold">Resource Type</emphasis>/<emphasis role="bold">Main Category</emphasis>/<emphasis role="bold">Sub-category</emphasis> in the
+                              Resource Catalog:
+                              <variablelist>
+                                  <varlistentry>
+                                      <term><emphasis role="bold">Specifications</emphasis></term>
+                                      <listitem>
+                                          <para><literal>Developer Resources</literal> / <literal>OpenPOWER Documents</literal> / <literal>Specifications</literal></para>
+                                      </listitem>
+			                            </varlistentry>
+
+                                  <varlistentry>
+                                      <term><emphasis role="bold">Work Group Notes</emphasis></term>
+                                      <listitem>
+                                          <para><literal>Developer Resources</literal> / <literal>OpenPOWER Documents</literal> / <literal>Work Group Notes</literal></para>
+                                      </listitem>
+			                            </varlistentry>
+
+                                  <varlistentry>
+                                      <term><emphasis role="bold">Cloud development virtual machines</emphasis></term>
+                                      <listitem>
+                                          <para><literal>Developer Resources</literal> / <literal>Software Developer Cloud Resources</literal> / &lt;empty&gt;</para>
+                                      </listitem>
+			                            </varlistentry>
+
+                                  <varlistentry>
+                                      <term><emphasis role="bold">Developer Tools</emphasis></term>
+                                      <listitem>
+                                          <para><literal>Developer Resources</literal> / <literal>Developer Tools</literal> / &lt;empty&gt;</para>
+                                      </listitem>
+			                            </varlistentry>
+                              </variablelist>
+                          </para>
+                          <note><para>Use the <emphasis role="bold">Search</emphasis> field to focus your search using key words or phrases for specific resources.</para></note>
+                      </listitem>
+                  </itemizedlist>
+	          </para>
     </section>
 
     <section xml:id="opf-contact">
